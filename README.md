@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fernando</h1>
-<h3 align="center">A passionate Data Scientgist from Venezuela/Italy</h3>
+<h3 align="center">A passionate Data Scientist from Venezuela/Italy</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
